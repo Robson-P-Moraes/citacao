@@ -1,1 +1,3 @@
 Atenção este é o primeiro registro para o git.
+
+Este parágrafo representa a primeira alteração.
